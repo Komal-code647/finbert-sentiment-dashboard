@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+yfinance
+transformers
+torch
+requests
+beautifulsoup4
+numpy

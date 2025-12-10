@@ -1,0 +1,101 @@
+Ticker,Date,Time,Headline,full_timestamp,parsed_date,date_only,sentiment_label,sentiment_confidence,sentiment_score,weighted_score
+AMZN,Today,12:54PM,"Bezos' Blue Origin working on orbital data center technology, WSJ reports",Today 12:54PM,,,neutral,0.9084876775741577,0,0.0
+AMZN,Today,12:25PM,"Amazon's Grocery Momentum Puts Scare Into Instacart Stock, DoorDash",Today 12:25PM,,,negative,0.3501950800418854,-1,-0.3501950800418854
+AMZN,Today,12:19PM,Wall Street and Temasek Are Fighting for a Piece of Swiggy's $1.1B India Delivery Play,Today 12:19PM,,,negative,0.48655053973197937,-1,-0.48655053973197937
+AMZN,Today,12:10PM,"Talk of an AI bubble is just 'ridiculous,' this strategist says",Today 12:10PM,,,negative,0.7736238837242126,-1,-0.7736238837242126
+AMZN,Today,12:06PM,Marvell CEO fights back against bears; stock gains,Today 12:06PM,,,neutral,0.3791252672672272,0,0.0
+AMZN,Today,11:53AM,Amazon Shares Steady as Glowmade Layoffs Highlight Ongoing Gaming Challenges,Today 11:53AM,,,negative,0.9677941203117371,-1,-0.9677941203117371
+AMZN,Today,11:45AM,Retailers look healthier than narrative suggests as margins near peak- Guggenheim,Today 11:45AM,,,positive,0.9468444585800171,1,0.9468444585800171
+AMZN,Today,11:33AM,Amazon to Invest $35 Billion in India Through 2030 to Expand AI and Retail Footprint,Today 11:33AM,,,positive,0.8077573180198669,1,0.8077573180198669
+AMZN,Today,11:32AM,Why Amazon Stock Is Climbing Today,Today 11:32AM,,,neutral,0.5003052353858948,0,0.0
+AMZN,Today,11:20AM,Amazon Just Made a $35 Billion Power Play--and It's All About India,Today 11:20AM,,,neutral,0.9312005043029785,0,0.0
+AMZN,Today,11:11AM,Magnificent Seven Stocks: Nvidia Slides; Tesla Offers New Buy Point,Today 11:11AM,,,neutral,0.4685923457145691,0,0.0
+AMZN,Today,11:06AM,Amazon named Top Mega Cap Internet Pick at TD Cowen,Today 11:06AM,,,neutral,0.5720977783203125,0,0.0
+AMZN,Today,11:05AM,Powell's Fed Just Cut Rates Again -- But the Real Shock Is What Happens Next,Today 11:05AM,,,neutral,0.8363375663757324,0,0.0
+AMZN,Today,11:04AM,Can AMZN's Expanding Global Investments Push the Stock Higher in 2026?,Today 11:04AM,,,positive,0.8791221976280212,1,0.8791221976280212
+AMZN,Today,10:56AM,Amazon to pay 510 million euros to settle tax probe in Italy - sources,Today 10:56AM,,,neutral,0.826445460319519,0,0.0
+AMZN,Today,10:40AM,TSMC Stock Is Rising -- Strong November Sales Highlight AI-Driven Demand,Today 10:40AM,,,positive,0.9571999907493591,1,0.9571999907493591
+AMZN,Today,10:37AM,How Big Tech's AI build-out is 'mostly' a private credit story,Today 10:37AM,,,neutral,0.8617356419563293,0,0.0
+AMZN,Today,10:31AM,Amazon's stock is this analyst's 'best idea' because of these 3 reasons,Today 10:31AM,,,neutral,0.8750537037849426,0,0.0
+AMZN,Today,10:22AM,"Amazon to invest over $35 billion in India on AI, exports",Today 10:22AM,,,neutral,0.5819078683853149,0,0.0
+AMZN,Today,10:10AM,Analyst says Amazon likely saw robust Black Friday/Cyber Monday trading,Today 10:10AM,,,positive,0.8778113722801208,1,0.8778113722801208
+AMZN,Today,10:00AM,Marvell Technology Stock Climbs. CEO Rejects Reports of Lost Cloud Orders,Today 10:00AM,,,negative,0.7562520503997803,-1,-0.7562520503997803
+AMZN,Today,09:48AM,QYLD Turns Mag 7 Tech Stocks Into an 11% Dividend Yield,Today 09:48AM,,,neutral,0.9122727513313293,0,0.0
+AMZN,Today,09:40AM,"Amazon initiated, GE Vernova upgraded: Wall Street's top analyst calls",Today 09:40AM,,,neutral,0.7578288912773132,0,0.0
+AMZN,Today,09:36AM,"Stocks to Watch Wednesday: GE Vernova, GameStop, Cracker Barrel",Today 09:36AM,,,neutral,0.9153037667274475,0,0.0
+AMZN,Today,09:35AM,Grid Dynamics enters multi-year collaboration agreement with Amazon Web Services,Today 09:35AM,,,positive,0.9208710193634033,1,0.9208710193634033
+AMZN,Today,09:30AM,Small-Cap Stocks May Be Ready to Outperform After Five Years of Lagging,Today 09:30AM,,,positive,0.9300752282142639,1,0.9300752282142639
+AMZN,Today,09:21AM,"Amazon to invest more than $35bn in India by 2030, focusing on AI, exports and jobs",Today 09:21AM,,,neutral,0.509222686290741,0,0.0
+AMZN,Today,09:19AM,ANET vs. IBM: Which Hybrid Cloud Stock is the Better Buy for 2026?,Today 09:19AM,,,neutral,0.8914526700973511,0,0.0
+AMZN,Today,09:16AM,'We Would Sell Bitcoin If We Needed To': Strategy CEO Says Selling Bitcoin Is Not Out Of The Question,Today 09:16AM,,,neutral,0.9400190711021423,0,0.0
+AMZN,Today,09:09AM,"Here Are Wednesdays Top Wall Street Analyst Research Calls: AbbVie, Amazon.com, Biogen, EchoStar, Ferrari, GE Vernova, PepsiCo, Take-Two Interactive, and More",Today 09:09AM,,,neutral,0.9513388276100159,0,0.0
+AMZN,Today,09:00AM,Reebok Parent Authentic Brands Group Accelerates TikTok Shop Selling With New Partner,Today 09:00AM,,,positive,0.5271002650260925,1,0.5271002650260925
+AMZN,Today,08:48AM,Stock Market Today: Dow Up Ahead Of Fed Ruling; Nvidia Chipmaker Rises On Sales Report (Live Coverage),Today 08:48AM,,,positive,0.9061777591705322,1,0.9061777591705322
+AMZN,Today,07:39AM,AI Weekly: EU probes and India investment,Today 07:39AM,,,neutral,0.9066516757011414,0,0.0
+AMZN,Today,07:35AM,"Marvell Stock Falls on Microsoft, Amazon Fears. 'Block Out the Noise.'",Today 07:35AM,,,negative,0.8305268883705139,-1,-0.8305268883705139
+AMZN,Today,07:32AM,"Amazon to invest additional $35B in India by 2030, taking total planned spending to $75B",Today 07:32AM,,,positive,0.8888255953788757,1,0.8888255953788757
+AMZN,Today,06:50AM,Prediction: Amazon Stock Will Have a Monster 2026,Today 06:50AM,,,neutral,0.889563798904419,0,0.0
+AMZN,Today,05:53AM,The year of the tech company co-CEO,Today 05:53AM,,,neutral,0.9447733759880066,0,0.0
+AMZN,Today,04:26AM,Should You Buy the Invesco QQQ ETF With the Nasdaq Near an All-Time High? History Offers a Clear Answer.,Today 04:26AM,,,neutral,0.8345362544059753,0,0.0
+AMZN,Today,04:11AM,"Microsoft, Amazon Bet Billions on India",Today 04:11AM,,,neutral,0.9376456141471863,0,0.0
+AMZN,Today,03:02AM,"Microsoft Unveils Biggest AI Investment Plan to Challenge Amazon, Google",Today 03:02AM,,,positive,0.5615074634552002,1,0.5615074634552002
+AMZN,Today,02:19AM,Amazon plans more than US$35 billion in new India investments through 2030,Today 02:19AM,,,neutral,0.7502011060714722,0,0.0
+AMZN,Dec-09-25,11:07PM,Apple analyst sets bold stock target for 2026,Dec-09-25 11:07PM,2025-12-09 23:07:00,2025-12-09,neutral,0.9203528761863708,0,0.0
+AMZN,Dec-09-25,08:25PM,Watch Jim Cramer's full interview with Marvell Technology CEO Matt Murphy,Dec-09-25 08:25PM,2025-12-09 20:25:00,2025-12-09,neutral,0.9435608386993408,0,0.0
+AMZN,Dec-09-25,08:25PM,"'Those orders are in the books,' says Marvell CEO on lost business speculation",Dec-09-25 08:25PM,2025-12-09 20:25:00,2025-12-09,neutral,0.8785684108734131,0,0.0
+AMZN,Dec-09-25,07:00PM,Fed Cut This Week May Be Last for A While,Dec-09-25 07:00PM,2025-12-09 19:00:00,2025-12-09,negative,0.6347569823265076,-1,-0.6347569823265076
+AMZN,Dec-09-25,06:30PM,Dave Ramsey Reacts To A Father Trying To Bribe His Son For Control Of A $300K Trust. 'What Planet Does He Live On?',Dec-09-25 06:30PM,2025-12-09 18:30:00,2025-12-09,neutral,0.6069903373718262,0,0.0
+AMZN,Dec-09-25,06:20PM,"The 3 Smartest Quantum Computing Stocks to Buy With $1,000 in 2026",Dec-09-25 06:20PM,2025-12-09 18:20:00,2025-12-09,neutral,0.8144792914390564,0,0.0
+AMZN,Dec-09-25,06:11PM,Big Bubbles Are Not Deterring Bullish Investors,Dec-09-25 06:11PM,2025-12-09 18:11:00,2025-12-09,negative,0.43251946568489075,-1,-0.43251946568489075
+AMZN,Dec-09-25,05:07PM,Amazon's (AMZN) AWS Momentum Strengthens as Evercore Keeps $335 Price Target,Dec-09-25 05:07PM,2025-12-09 17:07:00,2025-12-09,positive,0.9510335922241211,1,0.9510335922241211
+AMZN,Dec-09-25,04:26PM,Amazon Dominated Online Beauty Sales During Cyber Week,Dec-09-25 04:26PM,2025-12-09 16:26:00,2025-12-09,neutral,0.7959834933280945,0,0.0
+AMZN,Dec-09-25,04:24PM,"Apple Stock Marks a Solid Comeback. Is AAPL a Buy, Sell, or Hold for 2026?",Dec-09-25 04:24PM,2025-12-09 16:24:00,2025-12-09,neutral,0.893092691898346,0,0.0
+AMZN,Dec-09-25,04:01PM,Lands' End Inc (LE) Q3 2025 Earnings Call Highlights: Record Gross Margin and Strategic ...,Dec-09-25 04:01PM,2025-12-09 16:01:00,2025-12-09,positive,0.9529374241828918,1,0.9529374241828918
+AMZN,Dec-09-25,03:59PM,2 Reasons Tech Stocks Are Rising Past AI Worries,Dec-09-25 03:59PM,2025-12-09 15:59:00,2025-12-09,positive,0.7945166826248169,1,0.7945166826248169
+AMZN,Dec-09-25,03:48PM,2 Reasons Tech Stocks Are Rise Past AI Worries,Dec-09-25 03:48PM,2025-12-09 15:48:00,2025-12-09,positive,0.7553994655609131,1,0.7553994655609131
+AMZN,Dec-09-25,03:41PM,Earnings Watch: Will Oracle Stock Regain Its Bullish Momentum?,Dec-09-25 03:41PM,2025-12-09 15:41:00,2025-12-09,positive,0.8903992176055908,1,0.8903992176055908
+AMZN,Dec-09-25,03:37PM,"Howard Marks Says AI Terrifying for Jobs, Queries Debt Cost",Dec-09-25 03:37PM,2025-12-09 15:37:00,2025-12-09,neutral,0.7795137166976929,0,0.0
+AMZN,Dec-09-25,03:04PM,Oracle set to report earnings as Wall Street looks for cracks in the AI bubble,Dec-09-25 03:04PM,2025-12-09 15:04:00,2025-12-09,negative,0.5800009369850159,-1,-0.5800009369850159
+AMZN,Dec-09-25,03:02PM,These 3 Dow Stocks Are Set to Soar in 2026 and Beyond,Dec-09-25 03:02PM,2025-12-09 15:02:00,2025-12-09,positive,0.7138547301292419,1,0.7138547301292419
+AMZN,Dec-09-25,02:00PM,2 Reasons Meta and Other Tech Stocks Can Rise Past AI Worries,Dec-09-25 02:00PM,2025-12-09 14:00:00,2025-12-09,neutral,0.6613116264343262,0,0.0
+AMZN,Dec-09-25,01:41PM,ETFs Poised to Gain From Black Friday's $11.8B Online E-Commerce Sales,Dec-09-25 01:41PM,2025-12-09 13:41:00,2025-12-09,positive,0.949462354183197,1,0.949462354183197
+AMZN,Dec-09-25,01:35PM,Oracle's OpenAI reliance faces scrutiny as debt-fueled AI buildout raises worries,Dec-09-25 01:35PM,2025-12-09 13:35:00,2025-12-09,negative,0.958885133266449,-1,-0.958885133266449
+AMZN,Dec-09-25,01:18PM,Warner Bros. Fight Hinges on Value of Shrinking Cable Assets,Dec-09-25 01:18PM,2025-12-09 13:18:00,2025-12-09,negative,0.9455952644348145,-1,-0.9455952644348145
+AMZN,Dec-09-25,01:05PM,"Here Are Billionaire Bill Ackman's 3 Biggest Bets From This Year, and How He's Positioned Going Into 2026",Dec-09-25 01:05PM,2025-12-09 13:05:00,2025-12-09,neutral,0.9358134865760803,0,0.0
+AMZN,Dec-09-25,12:52PM,Tech Stocks Are Rebounding. Two Reasons It Can Continue.,Dec-09-25 12:52PM,2025-12-09 12:52:00,2025-12-09,positive,0.9302230477333069,1,0.9302230477333069
+AMZN,Dec-09-25,12:12PM,GOOGL Rises 79% in a Year on AI Push: Will the Rally Continue in 2026?,Dec-09-25 12:12PM,2025-12-09 12:12:00,2025-12-09,positive,0.7970737218856812,1,0.7970737218856812
+AMZN,Dec-09-25,11:51AM,Will Customer Defections Crumble Marvell Technologys AI Empire?,Dec-09-25 11:51AM,2025-12-09 11:51:00,2025-12-09,negative,0.6746408939361572,-1,-0.6746408939361572
+AMZN,Dec-09-25,11:49AM,Why KeyBanc Remains Bullish on Amazon (AMZN) After AWS re:Invent,Dec-09-25 11:49AM,2025-12-09 11:49:00,2025-12-09,neutral,0.5537425875663757,0,0.0
+AMZN,Dec-09-25,11:30AM,Can Microsoft Stock Sustain Its AI Infrastructure Investment Pace?,Dec-09-25 11:30AM,2025-12-09 11:30:00,2025-12-09,positive,0.8671929240226746,1,0.8671929240226746
+AMZN,Dec-09-25,11:28AM,"DoorDash Stock Rallies 30% in One Year: Should You Buy, Hold, or Sell?",Dec-09-25 11:28AM,2025-12-09 11:28:00,2025-12-09,neutral,0.8991376161575317,0,0.0
+AMZN,Dec-09-25,11:25AM,3 Stocks That Could Skyrocket Before the End of 2025,Dec-09-25 11:25AM,2025-12-09 11:25:00,2025-12-09,negative,0.7662403583526611,-1,-0.7662403583526611
+AMZN,Dec-09-25,11:20AM,Microsoft to invest $17.5B in India by 2029 as AI race accelerates,Dec-09-25 11:20AM,2025-12-09 11:20:00,2025-12-09,positive,0.779823362827301,1,0.779823362827301
+AMZN,Dec-09-25,11:14AM,Ray-Ban Meta glasses take off but face privacy and competition test,Dec-09-25 11:14AM,2025-12-09 11:14:00,2025-12-09,neutral,0.9217662215232849,0,0.0
+AMZN,Dec-09-25,11:00AM,What Trump's Nvidia China sales approval means for the Mag 7,Dec-09-25 11:00AM,2025-12-09 11:00:00,2025-12-09,neutral,0.9101480841636658,0,0.0
+AMZN,Dec-09-25,10:23AM,Bezos Is Quietly Bullish on Trump Accounts and Insiders Expect a Huge Contribution,Dec-09-25 10:23AM,2025-12-09 10:23:00,2025-12-09,negative,0.5356723666191101,-1,-0.5356723666191101
+AMZN,Dec-09-25,10:23AM,"MRVL Declines 14% in a Year: Should You Buy, Sell or Hold the Stock?",Dec-09-25 10:23AM,2025-12-09 10:23:00,2025-12-09,neutral,0.8587191104888916,0,0.0
+AMZN,Dec-09-25,10:16AM,"'It Feels Like The World Just Changed, Again' Salesforce CEO Says Google's Gemini 3 Is 'Sharper And Faster' Than ChatGPT",Dec-09-25 10:16AM,2025-12-09 10:16:00,2025-12-09,positive,0.7488613128662109,1,0.7488613128662109
+AMZN,Dec-09-25,10:00AM,"As Shein and Temu Entice Vendors, Amazon Cuts European Seller Fees",Dec-09-25 10:00AM,2025-12-09 10:00:00,2025-12-09,negative,0.9086828231811523,-1,-0.9086828231811523
+AMZN,Dec-09-25,09:20AM,UPS Margins Show Growth Despite Revenue Woes: Scope for More Upside?,Dec-09-25 09:20AM,2025-12-09 09:20:00,2025-12-09,positive,0.9100968241691589,1,0.9100968241691589
+AMZN,Dec-09-25,09:12AM,Disneys Entertainment Model Stumbles as Amazon Doubles Down on AI Infrastructure Spending,Dec-09-25 09:12AM,2025-12-09 09:12:00,2025-12-09,negative,0.9679136872291565,-1,-0.9679136872291565
+AMZN,Dec-09-25,09:00AM,"Here is What to Know Beyond Why Amazon.com, Inc. (AMZN) is a Trending Stock",Dec-09-25 09:00AM,2025-12-09 09:00:00,2025-12-09,neutral,0.6346505880355835,0,0.0
+AMZN,Dec-09-25,08:45AM,3 Solid Funds to Boost Your Portfolio on Surging Semiconductor Sales,Dec-09-25 08:45AM,2025-12-09 08:45:00,2025-12-09,positive,0.9391152262687683,1,0.9391152262687683
+AMZN,Dec-09-25,08:31AM,"Reliance-Disney's JioHotstar to invest $444 million in south Indian content, executive says",Dec-09-25 08:31AM,2025-12-09 08:31:00,2025-12-09,neutral,0.6599156856536865,0,0.0
+AMZN,Dec-09-25,08:18AM,"AI infrastructure bubble wont burst until 2027, Northland predicts",Dec-09-25 08:18AM,2025-12-09 08:18:00,2025-12-09,neutral,0.7193425893783569,0,0.0
+AMZN,Dec-09-25,07:58AM,"From 2015 to 2024, the ""Magnificent Seven"" Achieved a 698% Return. Here Are 2 With Room to Run.",Dec-09-25 07:58AM,2025-12-09 07:58:00,2025-12-09,neutral,0.906455934047699,0,0.0
+AMZN,Dec-09-25,07:00AM,How Mag 7's lead over other stocks could shrink in 2026,Dec-09-25 07:00AM,2025-12-09 07:00:00,2025-12-09,negative,0.9398301243782043,-1,-0.9398301243782043
+AMZN,Dec-09-25,06:18AM,Microsoft to invest more than $5.4 billion in Canada to boost AI infrastructure,Dec-09-25 06:18AM,2025-12-09 06:18:00,2025-12-09,positive,0.8595160841941833,1,0.8595160841941833
+AMZN,Dec-09-25,06:02AM,"The Best Quantum Computing Stock to Own If the Bubble Bursts (Hint: It's Not D-Wave, IonQ, or Rigetti)",Dec-09-25 06:02AM,2025-12-09 06:02:00,2025-12-09,neutral,0.9088340997695923,0,0.0
+AMZN,Dec-09-25,05:50AM,Microsoft vs. Amazon: Which Cloud Computing Stock Will Outperform in 2026?,Dec-09-25 05:50AM,2025-12-09 05:50:00,2025-12-09,neutral,0.5711273550987244,0,0.0
+AMZN,Dec-09-25,05:04AM,"The Zacks Analyst Blog Highlights IBM, Amazon, Google, IonQ and D-Wave Quantum",Dec-09-25 05:04AM,2025-12-09 05:04:00,2025-12-09,neutral,0.9446295499801636,0,0.0
+AMZN,Dec-09-25,03:02AM,"Borrowing by AI companies represents a mounting potential threat to the financial system, top economist says",Dec-09-25 03:02AM,2025-12-09 03:02:00,2025-12-09,negative,0.9540947675704956,-1,-0.9540947675704956
+AMZN,Dec-08-25,11:55PM,Marvell Stock Faces Heavy Sell-Off After Benchmark Flags Amazon Design Loss,Dec-08-25 11:55PM,2025-12-08 23:55:00,2025-12-08,negative,0.927569568157196,-1,-0.927569568157196
+AMZN,Dec-08-25,10:20PM,Amazon's Next Chapter: A Look Back at 2025 and What Investors Should Expect in 2026,Dec-08-25 10:20PM,2025-12-08 22:20:00,2025-12-08,neutral,0.9297480583190918,0,0.0
+AMZN,Dec-08-25,09:37PM,Amazon issues urgent alert on recalled portable batteries,Dec-08-25 09:37PM,2025-12-08 21:37:00,2025-12-08,negative,0.8844988942146301,-1,-0.8844988942146301
+AMZN,Dec-08-25,07:31PM,Paramount Ups Warner Bros. Battle With Trump Son-in-Law at Side,Dec-08-25 07:31PM,2025-12-08 19:31:00,2025-12-08,neutral,0.8609151840209961,0,0.0
+AMZN,Dec-08-25,07:31PM,"Jeff Bezos Once Said The Universe Wants You To Be 'Typical,' But There Is A Price To Pay For Being Yourself As Well: 'Not Easy Or Free'",Dec-08-25 07:31PM,2025-12-08 19:31:00,2025-12-08,neutral,0.8431748151779175,0,0.0
+AMZN,Dec-08-25,07:30PM,"How Walmart, Target, Amazon pay holiday workers (and who's hiring)",Dec-08-25 07:30PM,2025-12-08 19:30:00,2025-12-08,neutral,0.8538331985473633,0,0.0
+AMZN,Dec-08-25,07:02PM,"Shaq Refused To Spend $80,000 On A Security System. Instead, He Invested In A Startup Jeff Bezos Eventually Bought For $1B",Dec-08-25 07:02PM,2025-12-08 19:02:00,2025-12-08,neutral,0.9282464981079102,0,0.0
+AMZN,Dec-08-25,04:28PM,Marvell Stock Is the Biggest Loser From Amazons New Chip. This Downgrade Proves It.,Dec-08-25 04:28PM,2025-12-08 16:28:00,2025-12-08,negative,0.8954604268074036,-1,-0.8954604268074036
+AMZN,Dec-08-25,04:26PM,Marvell Stock Down As Microsoft Mulls Switch To Broadcom For Custom Chips,Dec-08-25 04:26PM,2025-12-08 16:26:00,2025-12-08,negative,0.9504047632217407,-1,-0.9504047632217407
+AMZN,Dec-08-25,04:06PM,What to know about Paramount's hostile bid for Warner Bros. Discovery,Dec-08-25 04:06PM,2025-12-08 16:06:00,2025-12-08,neutral,0.8909973502159119,0,0.0
